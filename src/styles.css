@@ -5,7 +5,7 @@ body {
     background-color: #f8f9fa;
   }
   
-  /* Header styles */
+
   .App-header {
     background-color: #343a40;
     color: white;
@@ -19,7 +19,7 @@ body {
     margin-bottom: 10px;
   }
   
-  /* Joke styles */
+  
   .joke {
     background-color: black;
     border-radius: 15px;
@@ -36,7 +36,7 @@ body {
     line-height: 1.4;
   }
   
-  /* NextButton styles */
+
   button {
     background-color: #17a2b8;
     color: white;
