@@ -1,4 +1,3 @@
-// components/NextButton.js
 import React from "react";
 
 const Button = ({ onClick }) => {
