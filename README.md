@@ -17,3 +17,4 @@ I Struggled with finding an API. There was a lot of API's I had to go through.
 ## Fix
 
 If I get a joke and click the punchline button it will work, but when I go to the next joke the punchline of the new joke still shows. I have to manually make it go away.
+add some pictures!
